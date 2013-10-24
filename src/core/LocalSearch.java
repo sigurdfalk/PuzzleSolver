@@ -10,19 +10,11 @@ public abstract class LocalSearch {
     protected int iterations;
     protected Run result;
     protected boolean stop;
-    protected State initialState;
-    protected boolean visualize;
 
     public LocalSearch(LocalStateManager localStateManager, int iterations) {
         this.localStateManager = localStateManager;
         this.iterations = iterations;
         this.result = null;
-    }
-
-    public void initializeSearch(State initialState, int iterations, boolean visualize) {
-        this.initialState = initialState;
-        this.iterations = iterations;
-        this.visualize = visualize;
     }
 
     public Run getResult() {
