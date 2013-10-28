@@ -139,7 +139,7 @@ public class PuzzleSolverUI extends JFrame {
         runs.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         runs.addListSelectionListener(new ListListener());
         listScroll = new JScrollPane(runs);
-        listScroll.setPreferredSize(new Dimension(150, 265));
+        listScroll.setPreferredSize(new Dimension(150, 340));
 
         runResult = new JTextArea(10, 10);
         runResult.setEditable(false);
@@ -195,7 +195,7 @@ public class PuzzleSolverUI extends JFrame {
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
-        this.setSize(750, 390);
+        this.setSize(930, 480);
         this.setVisible(true);
     }
 

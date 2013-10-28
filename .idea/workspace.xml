@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955d9873-9941-4835-bd10-83226f0f95b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/LocalSearch.java" afterPath="$PROJECT_DIR$/src/core/LocalSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gui/PuzzleSolverUI.java" afterPath="$PROJECT_DIR$/src/gui/PuzzleSolverUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PuzzleSolver.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +51,7 @@
     <file path="/GridViewerPanel.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382441531410" ignored="false" />
     <file path="/a.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382481528078" ignored="false" />
     <file path="/sample.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382481525014" ignored="false" />
-    <file path="/Dummy.txt" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382615295102" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382614029727" ignored="false" />
+    <file path="/Dummy.txt" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382994675384" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,11 +121,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphColorStateManager.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GraphColorStateManager.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="5" selection-start="2860" selection-end="2860" vertical-scroll-proportion="0.7537923">
+            <state line="16" column="24" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PuzzleSolverUI.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gui/PuzzleSolverUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="197" column="23" selection-start="6940" selection-end="6940" vertical-scroll-proportion="0.6178862">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#17409#17417#0" expanded="true" />
+                <element signature="e#17472#17480#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,20 +197,21 @@
         <option value="$PROJECT_DIR$/src/eggCarton/EggCartonViewerPanel.java" />
         <option value="$PROJECT_DIR$/src/utilities/Util.java" />
         <option value="$PROJECT_DIR$/src/latinSquare/LatinSquareViewerPanel.java" />
-        <option value="$PROJECT_DIR$/src/gui/PuzzleSolverUI.java" />
         <option value="$PROJECT_DIR$/src/core/Variable.java" />
         <option value="$PROJECT_DIR$/src/core/LocalStateManager.java" />
         <option value="$PROJECT_DIR$/src/core/MinConflicts.java" />
         <option value="$PROJECT_DIR$/src/core/SimulatedAnnealing.java" />
         <option value="$PROJECT_DIR$/src/core/LocalSearch.java" />
         <option value="$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java" />
+        <option value="$PROJECT_DIR$/src/gui/PuzzleSolverUI.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
+    <option name="x" value="720" />
+    <option name="y" value="22" />
     <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="height" value="963" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -419,12 +433,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Application.PuzzleSolver">
     <configuration default="false" name="PuzzleSolver" type="Application" factoryName="Application" temporary="true">
@@ -463,6 +477,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -488,19 +515,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -582,7 +596,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="720" y="22" width="960" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -593,13 +607,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272933" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262159" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494432" sideWeight="0.50509626" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.73608017" sideWeight="0.49716875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5028313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5017794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -684,11 +698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/eggCarton/EggCartoonStateManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="526" selection-end="526" vertical-scroll-proportion="0.4562427">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="23" column="13" selection-start="526" selection-end="526" vertical-scroll-proportion="0.4562427" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/latinSquare/LatinSquareViewerPanel.java">
@@ -727,20 +737,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utilities/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/PuzzleSolverUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="479" column="26" selection-start="17511" selection-end="17511" vertical-scroll-proportion="4.7535543">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#17409#17417#0" expanded="true" />
-            <element signature="e#17472#17480#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="2" column="10" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/SimulatedAnnealing.java">
@@ -773,8 +770,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="5" selection-start="2860" selection-end="2860" vertical-scroll-proportion="0.7537923">
+        <state line="16" column="24" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/PuzzleSolverUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="23" selection-start="6940" selection-end="6940" vertical-scroll-proportion="0.6178862">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#17409#17417#0" expanded="true" />
+            <element signature="e#17472#17480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
