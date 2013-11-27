@@ -195,7 +195,7 @@ public class PuzzleSolverUI extends JFrame {
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
-        this.setSize(930, 480);
+        this.setSize(980, 480);
         this.setVisible(true);
     }
 

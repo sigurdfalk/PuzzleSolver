@@ -8,10 +8,10 @@
     <ignored path="PuzzleSolver.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/State.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382208825866" ignored="false" />
-    <file path="/LocalStateManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382534160731" ignored="false" />
+    <file path="/LocalStateManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1383447258900" ignored="false" />
     <file path="/KQueensStateManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382231336422" ignored="false" />
     <file path="/LocalSearch.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382619454810" ignored="false" />
-    <file path="/SimulatedAnnealing.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382519628114" ignored="false" />
+    <file path="/SimulatedAnnealing.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1383043676367" ignored="false" />
     <file path="/KQueensSimulatedAnnealing.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1381679594458" ignored="false" />
     <file path="/KQueens.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1381840047065" ignored="false" />
     <file path="/MinConflicts.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382540181000" ignored="false" />
@@ -49,9 +49,23 @@
     <file path="/PuzzleSolverUI.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382525089129" ignored="false" />
     <file path="/Run.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382369688437" ignored="false" />
     <file path="/GridViewerPanel.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382441531410" ignored="false" />
-    <file path="/a.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382481528078" ignored="false" />
-    <file path="/sample.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382481525014" ignored="false" />
-    <file path="/Dummy.txt" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1382994675384" ignored="false" />
+    <file path="/a.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1383447132890" ignored="false" />
+    <file path="/sample.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1383447153037" ignored="false" />
+    <file path="/Dummy.txt" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1385161696117" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/PSOViewerPanel.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384613303269" ignored="false" />
+    <file path="/PSOViewerPanel.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1385161460546" ignored="false" />
+    <file path="/PSOViewer.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1385161544388" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/PSOViewer.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612185327" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/Circle2DParticleManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612122057" ignored="false" />
+    <file path="/Circle2DParticleManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612121466" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/ParticleManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612050885" ignored="false" />
+    <file path="/ParticleManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612046557" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/Circle1DParticleManager.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612144615" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/PSOSearch.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384613534245" ignored="false" />
+    <file path="/PSOSearch.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384612939889" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/PSO.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1384613521228" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/gui/PSOViewer.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1385161596631" ignored="false" />
+    <file path="$PROJECT_DIR$/../PSO/src/gui/PSOViewerPanel.java" changelist="955d9873-9941-4835-bd10-83226f0f95b8" time="1385161464810" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +80,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -102,7 +117,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -112,59 +126,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LocalStateManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/LocalStateManager.java">
+      <file leaf-file-name="Viewer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gui/Viewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="24" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.0">
+            <state line="71" column="80" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.5532164">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphColorStateManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java">
+      <file leaf-file-name="ViewerPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/ViewerPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="24" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+            <state line="33" column="75" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PuzzleSolverUI.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gui/PuzzleSolverUI.java">
+      <file leaf-file-name="GraphColorViewerPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorViewerPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="23" selection-start="6940" selection-end="6940" vertical-scroll-proportion="0.6178862">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#17409#17417#0" expanded="true" />
-                <element signature="e#17472#17480#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinConflicts.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/MinConflicts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+            <state line="16" column="13" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimulatedAnnealing.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/SimulatedAnnealing.java">
+      <file leaf-file-name="KQueensViewerPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kQueens/KQueensViewerPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.0">
+            <state line="21" column="8" selection-start="460" selection-end="604" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalSearch.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/LocalSearch.java">
+      <file leaf-file-name="GridViewerPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/GridViewerPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="27" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+            <state line="10" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,24 +195,23 @@
         <option value="$PROJECT_DIR$/src/PuzzleSolver.java" />
         <option value="$PROJECT_DIR$/src/eggCarton/EggCartoonStateManager.java" />
         <option value="$PROJECT_DIR$/src/gui/GridViewerPanel.java" />
-        <option value="$PROJECT_DIR$/src/eggCarton/EggCartonViewerPanel.java" />
         <option value="$PROJECT_DIR$/src/utilities/Util.java" />
         <option value="$PROJECT_DIR$/src/latinSquare/LatinSquareViewerPanel.java" />
         <option value="$PROJECT_DIR$/src/core/Variable.java" />
-        <option value="$PROJECT_DIR$/src/core/LocalStateManager.java" />
         <option value="$PROJECT_DIR$/src/core/MinConflicts.java" />
-        <option value="$PROJECT_DIR$/src/core/SimulatedAnnealing.java" />
         <option value="$PROJECT_DIR$/src/core/LocalSearch.java" />
         <option value="$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java" />
+        <option value="$PROJECT_DIR$/src/core/SimulatedAnnealing.java" />
         <option value="$PROJECT_DIR$/src/gui/PuzzleSolverUI.java" />
+        <option value="$PROJECT_DIR$/src/eggCarton/EggCartonViewerPanel.java" />
+        <option value="$PROJECT_DIR$/src/core/LocalStateManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
     <option name="y" value="22" />
-    <option name="width" value="960" />
-    <option name="height" value="963" />
+    <option name="width" value="840" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -243,7 +243,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -254,170 +254,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="latinSquare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kQueens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graphColor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eggCarton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PuzzleSolver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
@@ -427,18 +264,18 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quarto" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Application.PuzzleSolver">
     <configuration default="false" name="PuzzleSolver" type="Application" factoryName="Application" temporary="true">
@@ -477,19 +314,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -515,6 +339,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -596,7 +433,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="22" width="960" height="963" extended-state="0" />
+    <frame x="0" y="22" width="840" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -607,16 +444,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262159" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494432" sideWeight="0.50509626" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24937028" sideWeight="0.50509626" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.73608017" sideWeight="0.49716875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5017794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.73551637" sideWeight="0.49716875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24115044" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3245033" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -686,36 +523,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gui/GridViewerPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="1299" selection-end="1299" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eggCarton/EggCartonViewerPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="17" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eggCarton/EggCartoonStateManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="526" selection-end="526" vertical-scroll-proportion="0.4562427" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/latinSquare/LatinSquareViewerPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="62" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kQueens/KQueensRLDiagonalConstrain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.37046006" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kQueens/KQueensColumnConstraint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="68" selection-start="282" selection-end="282" vertical-scroll-proportion="0.49394673" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kQueens/KQueensLRDiagonalConstraint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="15" selection-start="103" selection-end="103" vertical-scroll-proportion="0.20581114" />
@@ -723,66 +530,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="114" selection-end="114" vertical-scroll-proportion="0.37046006">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="114" selection-end="114" vertical-scroll-proportion="0.37046006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/Variable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="86" selection-start="918" selection-end="918" vertical-scroll-proportion="2.0169492">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/SimulatedAnnealing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="86" selection-start="918" selection-end="918" vertical-scroll-proportion="2.0169492" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/MinConflicts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.01734104" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/LocalSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="27" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="27" selection-start="242" selection-end="242" vertical-scroll-proportion="0.18792711" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/LocalStateManager.java">
+    <entry file="file://$PROJECT_DIR$/src/core/SimulatedAnnealing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="24" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="34" selection-start="393" selection-end="393" vertical-scroll-proportion="0.01734104" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eggCarton/EggCartonViewerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="13" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.6416185" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorStateManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="41" column="23" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.017814728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="174" selection-end="174" vertical-scroll-proportion="0.21052632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/LocalStateManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="26" selection-start="1915" selection-end="1915" vertical-scroll-proportion="0.06715507" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/PuzzleSolverUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="23" selection-start="6940" selection-end="6940" vertical-scroll-proportion="0.6178862">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#17409#17417#0" expanded="true" />
-            <element signature="e#17472#17480#0" expanded="true" />
-          </folding>
+        <state line="22" column="13" selection-start="522" selection-end="522" vertical-scroll-proportion="0.15606937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphColor/GraphColorViewerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ViewerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="75" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kQueens/KQueensViewerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="8" selection-start="460" selection-end="604" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/GridViewerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Viewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="80" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.5532164">
+          <folding />
         </state>
       </provider>
     </entry>
